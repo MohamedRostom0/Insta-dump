@@ -1,0 +1,9 @@
+const COMEDY_POST_CATEGORY = '@post-category/comedy'
+const EDUCATION_POST_CATEGORY = '@post-category/education'
+
+const POST_CATEGORY_TYPES = [
+    COMEDY_POST_CATEGORY,
+    EDUCATION_POST_CATEGORY
+]
+
+module.exports = { COMEDY_POST_CATEGORY, EDUCATION_POST_CATEGORY, POST_CATEGORY_TYPES }

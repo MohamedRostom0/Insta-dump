@@ -9,3 +9,6 @@ A fusion of instagram & reddit where a user can;
 
 ## Future possible features:
 - Use Federated Learning to understand each user preferences, so that the users have a tailored timeline feed that they will like.
+
+### Deployed at: 
+https://instadump.herokuapp.com/
